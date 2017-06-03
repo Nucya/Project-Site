@@ -1,0 +1,160 @@
+.wrapper{
+  background-color: #FFFFF0;
+  width: 970px;
+}
+
+img{
+    margin: 15px;
+}
+
+.top_container{
+  background-color: #265175;
+  width: 950px;
+  height: 550px;
+  margin: 0px 10px 0px 10px;
+}
+
+.footer{
+  background-color: #265175;
+  width: 950px;
+  height: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.navbar{
+  background-color: #4a80ab;
+  border-radius: 5px;
+  width: 800px;
+  height: 35px;
+  margin-left: 75px;
+  margin-right: 75px;
+  box-shadow: 2px 2px 2px 2px #1a1a1a;
+}
+
+.navtext{
+  word-spacing: 35px;
+  color: white;
+  font-size: 18px;
+  padding-top: 5px;
+  vertical-align: sub;
+  text-align: center;
+}
+
+ul{
+  color: white;
+  text-decoration: underline;
+  display: inline-block;
+  line-height: 25px;
+}
+
+.list{
+  list-style-position: inside;
+  color: white;
+  list-style-type: circle;
+  text-decoration: underline;
+  margin-top: 25px;
+}
+
+.searchbox1{
+  background-color: grey;
+  width: 180px;
+  height: 40px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px 2px #1a1a1a;
+  display: inline-block;
+  margin-left: 260px;
+  margin-bottom: 20px;
+}
+
+.searchbox{
+  display: inline-flex;
+  margin: 10px;
+}
+
+.paragraph{
+  color: white;
+  font-size: 14px;
+  width: 500px;
+  display: inline-block;
+  float: right;
+  text-align: center;
+  padding-top: 25px;
+  line-height: 20px;
+}
+
+.yellowtext{
+  color: yellow;
+  font-size: 18px;
+  font-style: italic;
+  line-height: 30px;
+}
+
+.gettingstarted{
+  color: black;
+  width: 300px;
+  margin: 20px;
+  display: inline-block;
+  text-align: center;
+  margin-left: 165px;
+  vertical-align: top;
+  border-top: 5px solid #8bb6da;
+
+}
+
+.guide{
+  color: #8bb6da;
+  display: inline-block;
+}
+
+.started{
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.applications{
+  display: inline-block;
+  text-align: center;
+  width: 300px;
+  margin-left: 50px;
+  margin: 20px;
+  border-top: 5px solid #8bb6da;
+}
+
+.guide2{
+  color: #8bb6da;
+  display: inline-block;
+}
+
+.python{
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.pypi{
+  color: #8bb6da;
+}
+
+.blueline{
+  color: blue;
+  height: 2px;
+  width: 300px;
+  display: inline-block;
+
+}
+
+.textsize{
+  display: inline-block;
+}
+
+.footer p{
+  display: inline-block;
+  margin-top: 50px;
+  margin-left: 115px;
+  color: #4c80ac;
+  text-align: center;
+}
